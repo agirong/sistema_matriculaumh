@@ -13,6 +13,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<script> //Comentario de Denis</script>
   <title>JSP page</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
