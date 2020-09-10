@@ -31,6 +31,7 @@
         
         <link href="boostrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="boostrap/js/bootstrap.min.js" type="text/javascript"></script>
+        <!-- prueba aaron-->
             
 <center>
 
